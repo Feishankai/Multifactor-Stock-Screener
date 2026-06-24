@@ -248,6 +248,4 @@ Zander Felder
 
 Student Quantitative Finance & Data Science Projects
 
-St. Albans School
-
 Washington, D.C.
