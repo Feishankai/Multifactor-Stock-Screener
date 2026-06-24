@@ -1,4 +1,4 @@
-# Multi-Factor Stock Screener
+# MultiFactor Stock Screener
 
 A quantitative equity research project that ranks stocks using factor investing principles commonly used by hedge funds, asset managers, and systematic trading firms.
 
